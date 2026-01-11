@@ -6,7 +6,7 @@ export function Sidebar() {
       <div className="text-xl font-bold mb-6">AquaFlux -{">"}</div>
       <nav className="space-y-2">
         <Button variant="ghost" className="w-full justify-start">
-          Overview
+          Geral
         </Button>
         <Button variant="ghost" className="w-full justify-start">
           Leads
