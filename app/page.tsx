@@ -33,7 +33,7 @@ export default function LandingPage() {
 
           <Link
             href="/pricing"
-            className="rounded-md border px-6 py-3 hover:border-neutral-600"
+            className="rounded-md border-2 px-6 py-3 hover:border-neutral-400"
           >
             Ver planos
           </Link>
