@@ -4,13 +4,11 @@ Projeto experimental de **frontend/UI** desenvolvido para prática com **Next.js
 
 Este projeto é **apenas visual** e não possui backend, autenticação real ou persistência de dados.
 
----
 
 ## Objetivo
 
 Explorar UI/UX, componentização e fluxos de navegação comuns em aplicações web, com foco em layout e experiência do usuário.
 
----
 
 ## Stack
 
