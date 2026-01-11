@@ -44,7 +44,7 @@ export default function LoginPage() {
             <button
               onClick={() => router.push("/app")}
               className="w-full rounded-md bg-primary py-2.5 text-primary-foreground
-                   transition-all hover:opacity-90 hover:-translate-y-[1px]
+                   transition-all hover:opacity-90 hover:-translate-y-px
                    cursor-pointer"
             >
               Entrar

@@ -26,7 +26,7 @@ export function Navbar() {
 
         <Button
           asChild
-          className="bg-gradient-to-r from-sky-500 to-emerald-400 hover:opacity-90"
+          className="bg-linear-to-r from-sky-500 to-emerald-400 hover:opacity-90"
         >
           <Link href="/dashboard">Entrar</Link>
         </Button>

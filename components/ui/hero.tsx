@@ -17,7 +17,7 @@ export function Hero() {
       <div className="mt-10 flex justify-center gap-4">
         <Button
           size="lg"
-          className="bg-gradient-to-r from-sky-500 to-emerald-400 hover:opacity-90"
+          className="bg-linear-to-r from-sky-500 to-emerald-400 hover:opacity-90"
         >
           Começar agora
         </Button>
