@@ -8,15 +8,11 @@ export default function LoginPage() {
   return (
     <main className="flex min-h-screen">
       <section className="hidden md:flex w-1/2 items-center justify-center bg-primary relative overflow-hidden">
-        <div className="absolute inset-0 opacity-20">
-          <div className="absolute top-20 left-20 w-40 h-40 rounded-full bg-white animate-pulse" />
-          <div className="absolute bottom-20 right-20 w-56 h-56 rounded-full bg-white/20" />
-        </div>
 
         <div className="relative z-10 text-center text-primary-foreground max-w-md space-y-6">
-          <h1 className="text-4xl font-bold">AquaFlux</h1>
+          <h1 className="text-4xl font-bold">AquaFlux!</h1>
           <p className="text-lg opacity-90">
-            Inteligência de crescimento para produtos digitais
+            Inteligência de crescimento para produtos digitais.
           </p>
         </div>
       </section>
